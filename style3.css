@@ -1,0 +1,108 @@
+body{
+
+    background-image: url("Space.jpg");
+
+
+
+}
+
+
+.containermain {
+    background-color: #adf6ff;
+    width: 100 px;
+    height: 1200px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+    color: black;
+}
+
+.container1 {
+    background-color: #adf6ff ;
+    width: 100 px;
+    height: 1200px;
+
+
+    border: 20px solid #000bb2  ;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Menu {
+    list-style-type: none;
+    display: flex;
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Menu ol {
+    margin-right: 40px; 
+    margin-left: 80px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+
+.Menu ol:last-child {
+    margin-right: 0; 
+}
+
+
+.Maryvit{
+    margin-left: 280px;
+}
+.DescOne ol{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+
+}
+
+
+.Preecha{
+    margin-left: 280px;
+}
+
+.DescTwo ol{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+    
+}
+.Chonchai{
+    margin-left: 280px;
+}
+.DescThree ol{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+    
+}

@@ -1,0 +1,163 @@
+body{
+
+    background-image: url("Space.jpg");
+
+
+
+}
+
+
+.containermain {
+    background-color: #adf6ff;
+    width: 100 px;
+    height: 1600px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+    color: black;
+}
+
+.container1 {
+    background-color: #adf6ff ;
+    width: 100 px;
+    height: 1600px;
+
+
+    border: 20px solid #000bb2  ;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Menu {
+    list-style-type: none;
+    display: flex;
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Menu ol {
+    margin-right: 40px; 
+    margin-left: 80px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+
+.Menu ol:last-child {
+    margin-right: 0; 
+}
+.BigCer1{
+    margin-left: 360px;
+}
+.BigCer1 ol{
+    margin-right: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+.BigCer2{
+    margin-left: 360px;
+}
+.BigCer2 ol{
+    margin-right: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+.BigCer3{
+    margin-left: 360px;
+}
+.BigCer3 ol{
+    margin-right: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+
+}
+.BigCer4{
+    margin-left: 360px;
+}
+.BigCer4 ol{
+    margin-right: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+.Cerdesc1 ol{
+    font-size: 30px;
+}
+.Cerdesc1{
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.Cerdesc2 ol{
+    font-size: 30px;
+}
+.Cerdesc2{
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Cerdesc3 ol{
+    font-size: 30px;
+}
+.Cerdesc4{
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Cerdesc4 ol{
+    font-size: 30px;
+}
+.Cerdesc4{
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}

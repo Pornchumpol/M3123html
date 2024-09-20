@@ -1,0 +1,129 @@
+body{
+
+    background-image: url("Space.jpg");
+
+
+
+}
+
+
+.containermain {
+    background-color: #adf6ff;
+    width: 100 px;
+    height: 1200px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+    color: black;
+}
+
+.container1 {
+    background-color: #adf6ff ;
+    width: 100 px;
+    height: 1200px;
+
+
+    border: 20px solid #000bb2  ;
+    color: black;
+}
+
+
+
+
+
+
+.title {
+    text-align: center;
+    font-size: 35px;
+    color: #0e3491   ;
+    background-color: #adf6ff ;
+    text-shadow: 0 0 5px whitesmoke ;
+
+
+
+}
+
+
+
+.profile img {
+    padding-left: 310px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.Menu {
+    list-style-type: none;
+    display: flex;
+    background-color: white;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+    margin-top: 10px;
+
+}
+
+.Menu ol {
+    margin-right: 40px; 
+    margin-left: 80px;
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 24px;
+    border: 2px solid #333; 
+    border-radius: 12px;
+    background-color: #e9feff;
+}
+
+.Menu ol:last-child {
+    margin-right: 0; 
+}
+
+
+
+.Quote {
+    list-style-type: none;
+    display: flex;
+    background-color: #adf6ff ;
+
+    border-radius: 12px; /* Makes the corners rounded */
+    border: 2px solid #333; /* Border around each item */
+
+}
+
+.Quote ol{
+    text-align: center;
+    font-size: 35px;
+    color: #0e3491   ;
+    background-color: #adf6ff ;
+    text-shadow: 0 0 5px white ;
+    padding-left: 100px;
+
+
+
+}
+
+
+
+.Information ol{
+    font-size: 20px;
+}
+
+.Name ol{
+    font-size: 40px;
+}
+
+.Name {
+    margin-up: 10px;
+    background-color: white ;
+    border: 2px solid #333; /* Border around each item */
+    border-radius: 12px; /* Makes the corners rounded */
+}
+
+
+
+
+.Mypic2{
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
